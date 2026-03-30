@@ -12,21 +12,21 @@
 
 ### ⚛️ Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,materialui,vite,redux&perline=4&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,materialui,tailwind,vite,redux&perline=6&theme=dark)](https://skillicons.dev)
 
-> React · TypeScript · Material UI (MUI) · Vite · React Router · Framer Motion · React Flow · React Intl (i18n) · Formik · Yup · @hello-pangea/dnd · react-syntax-highlighter · SimpleBar · Notistack
+> React · TypeScript · Next.js 14 (App Router) · Material UI (MUI) · Tailwind CSS · shadcn/ui · Vite · React Router · Framer Motion · React Flow · React Intl (i18n) · Formik · Yup · @hello-pangea/dnd · react-syntax-highlighter · SimpleBar · Notistack · tailwindcss-animate
 
 ---
 
 ### 🔐 Auth & Security
 
-> JWT · Auth0 · OAuth / SSO · Refresh Token Rotation
+> JWT · Auth0 · OAuth / SSO · Refresh Token Rotation · Contact Obfuscation (anti-scraping)
 
 ---
 
 ### 🌐 API & Communication
 
-> REST APIs · Axios · Server-Sent Events (SSE) · Postman
+> REST APIs · Axios · Server-Sent Events (SSE) · Next.js API Routes · Postman
 
 ---
 
@@ -35,6 +35,20 @@
 [![Databases](https://skillicons.dev/icons?i=postgres&perline=4&theme=dark)](https://skillicons.dev)
 
 > PostgreSQL · H2
+
+---
+
+### 📣 Integrations & Marketing
+
+[![Integrations](https://skillicons.dev/icons?i=vercel&perline=4&theme=dark)](https://skillicons.dev)
+
+> ActiveCampaign · Vercel · Google Search Console
+
+---
+
+### 🔍 SEO
+
+> Schema.org Structured Data · Dynamic Sitemap · Robots.txt · Open Graph · Semantic HTML
 
 ---
 
