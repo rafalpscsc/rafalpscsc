@@ -6,7 +6,7 @@
 
 ### 🧠 Languages & Core
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,html,css&perline=4&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,python&perline=5&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -20,19 +20,33 @@
 
 ### 🔐 Auth & Security
 
-> JWT · Auth0 · Firebase Auth · AWS Cognito · OAuth / SSO · Refresh Token Rotation
+> JWT · Auth0 · OAuth / SSO · Refresh Token Rotation
 
 ---
 
 ### 🌐 API & Communication
 
-> REST APIs · Axios · Server-Sent Events (SSE) · React Query patterns
+> REST APIs · Axios · Server-Sent Events (SSE) · Postman
+
+---
+
+### 🗄️ Databases
+
+[![Databases](https://skillicons.dev/icons?i=postgres&perline=4&theme=dark)](https://skillicons.dev)
+
+> PostgreSQL · H2
+
+---
+
+### 🧪 Testing
+
+> Selenium
 
 ---
 
 ### 🛠️ Dev Tools & Environment
 
-[![DevTools](https://skillicons.dev/icons?i=vscode,git,github,figma&perline=4&theme=dark)](https://skillicons.dev)
+[![DevTools](https://skillicons.dev/icons?i=vscode,cursor,git,github&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -46,4 +60,4 @@
 
 [![Design](https://skillicons.dev/icons?i=figma,ai,ps&perline=3&theme=dark)](https://skillicons.dev)
 
-> AutoCAD · Adobe Illustrator · Adobe Photoshop · Figma
+> Figma · Adobe Illustrator · Adobe Photoshop · AutoCAD
